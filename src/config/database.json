@@ -1,0 +1,3 @@
+{
+  "connectionString": "mongodb://<userName>:<password>@ds135817.mlab.com:35817/verification"
+}
